@@ -1,7 +1,8 @@
 # Demo Dashboard
 
 Build using React and Tailwind.
-Amin side demo site Link: https://dashboarderp.netlify.app/ (only for demo not fully working)
+
+Admin side demo site Link: https://dashboarderp.netlify.app/ (only for demo not fully working)
 
 # Sample Features Images
 
